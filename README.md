@@ -8,6 +8,7 @@ I'm Thai. Student/Junior Dev - Songkhla Rajbhat Songkhla | C, C++, C#, Python, J
 
 * 🌍  I'm based in Songkhla, Thailand
 * ✉️  You can contact me at [kaptainkhm@gmail.com](mailto:kaptainkhm@gmail.com)
+* 🧠  I'm learning React, NextJS, TypeScript, BootStrap, TailwindCSS, NodeJS, Vue, NuxtJS
 
 <a href="https://www.github.com/POISONDEV" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/POISONDEV?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
