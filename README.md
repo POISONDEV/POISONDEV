@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student/Junior Dev/Junior Software Engineer
 ------------------
 
-I'm Thai. Student/Junior Dev - Songkhla Rajbhat Songkhla
+I'm Thai. Student/Junior Dev - Songkhla Rajabhat Songkhla
 
 * 🌍  I'm based in Songkhla, Thailand
 * ✉️  You can contact me at [kaptainkhm@gmail.com](mailto:kaptainkhm@gmail.com)
